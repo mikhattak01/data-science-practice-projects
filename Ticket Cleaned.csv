@@ -1,0 +1,16 @@
+Customer_ID,Date,Name,Email,Product_Category,Priority,Resolution_Time,Rating,Resolved,Long Ticket
+1001,2024-01-15,John Smith,john.smith@email.com,Electronics,3,2.5,4.0,Yes,0
+1002,2024-01-15,Jane Doe,jane.d@email.com,Books,2,1.0,5.0,Yes,0
+1003,2024-01-16,Robert Johnson,robert.j@email.com,Electronics,3,4.0,3.0,Yes,0
+1004,2024-01-16,Alice Brown,alice.brown@email.com,Clothing,1,0.5,0.0,No,0
+1005,2024-01-17,David W,david.w@email.com,Electronics,3,72.0,2.0,Yes,1
+1006,2024-01-17,Sarah Wilson,sarah.w@email.com,Home,1,24.0,0.0,No,0
+1007,2024-01-18,John Smith,john.smith@email.com,Electronics,4,26.0,1.0,No,0
+1008,2024-01-18,Maria Garcia,maria.g@email.com,Books,2,3.0,4.0,Yes,0
+1009,2024-01-19,Tom Chen,tom.c@email.com,Electronics,3,48.0,0.0,No,1
+1010,2024-01-19,Emily White,emily.white@email.com,Electronics,2,6.0,3.0,Yes,0
+1011,2024-01-20,Robert Johnson,robert.j@email.com,Electronics,4,24.0,1.0,No,0
+1012,2024-01-20,Lisa Kim,lisa.k@email.com,Clothing,2,2.0,4.0,Yes,0
+1013,2024-01-21,Mike B,mike.b@email.com,Electronics,1,168.0,0.0,No,1
+1014,2024-01-21,Amanda Lee,amanda.l@email.com,Beauty,4,6.0,2.0,Yes,0
+1015,2024-01-22,James Wilson,james.w@email.com,Electronics,3,4.5,0.0,No,0
