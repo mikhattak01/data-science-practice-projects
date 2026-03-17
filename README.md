@@ -96,10 +96,6 @@ git clone https://github.com/mikhattak01/data-science-practice-projects.git
 pip install numpy pandas matplotlib seaborn jupyter scikit-learn
 ```
 
-3. Launch Jupyter Notebook:
-```bash
-jupyter notebook
-```
 
 ## 📝 Note
 
