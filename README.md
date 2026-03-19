@@ -90,7 +90,7 @@ These notebooks represent my learning journey in data science. They contain prac
 ## 🔗 Connect
 
 - GitHub: [@mikhattak01](https://github.com/mikhattak01)
-- LinkedIn: [@Mazhar Iqbal](www.linkedin.com/in/mazhar-iqbal-khattak)
+- LinkedIn: [@Mazhar Iqbal](https://www.linkedin.com/in/mazhar-iqbal-khattak/)
 
 ## 📌 Acknowledgments
 
