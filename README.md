@@ -53,7 +53,7 @@ This repository contains my practice projects and exercises as I learn various d
 
 ## 📊 Datasets Included
 
-The repository includes various practice datasets:
+This repository references the following Kaggle datasets:
 - **Titanic.csv** - Passenger survival data
 - **AAPL.csv** - Apple stock prices
 - **housing.csv** - Housing price dataset
@@ -82,20 +82,6 @@ The repository includes various practice datasets:
 - Build foundation for machine learning
 - Practice SQL queries for data analysis
 
-## 🚀 Getting Started
-
-To use these notebooks locally:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/mikhattak01/data-science-practice-projects.git
-```
-
-2. Install required packages:
-```bash
-pip install numpy pandas matplotlib seaborn jupyter scikit-learn
-```
-
 
 ## 📝 Note
 
@@ -104,6 +90,7 @@ These notebooks represent my learning journey in data science. They contain prac
 ## 🔗 Connect
 
 - GitHub: [@mikhattak01](https://github.com/mikhattak01)
+- LinkedIn: [@Mazhar Iqbal](www.linkedin.com/in/mazhar-iqbal-khattak)
 
 ## 📌 Acknowledgments
 
